@@ -67,14 +67,11 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Col Choat</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Choat, Col</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">mailto:colc@gutenberg.net.au</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Marshall Clow</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Clow, Marshall</meta>
-		<meta property="se:url.homepage" refines="#producer-1">mailto:mclow.lists@gmail.com</meta>
 		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
-		<meta property="se:url.homepage" refines="#producer-1">mailto:sweeney1708@gmail.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-2" scheme="marc:relators">cov</meta>
